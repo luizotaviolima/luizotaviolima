@@ -26,4 +26,5 @@ Feel free to contact me ☺
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/luizotaviolima)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizotaviolima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizotaviolima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
