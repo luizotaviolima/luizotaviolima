@@ -4,10 +4,10 @@
 
 - 📍 Colombo, PR, Brazil 
 - 👨‍💻 Data Analyst at [DBC Company](https://www.dbccompany.com.br/en/) | 💻 Working for [Grupo Renner](https://www.lojasrennersa.com.br/en_us/home)
-- 📚 Currently learning and growing my skillset in Data Science and Machine Learning. 
-  - 📘 R, Python and SQL;
+- 📚 Currently learning and growing my skillset in Big Data and Data Science. 
+  - 📘 R, Python, Pyspark and SQL;
   - 📙 Big Data Analytics;
-  - 📓 Mathematics and Statistics;
+  - 📓 AWS Platform;
   - 📗 Machine Learning with R and Python;
   - 📕 Business Analytics;
   - 📊 Data Visualization and Dashboard with Tableau and Power BI.
