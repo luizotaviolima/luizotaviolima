@@ -1,7 +1,5 @@
 # Hey there! I'm Luiz Otávio Lima<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="40">
 
-***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes.*** 💪
-
 - 📍 Colombo, PR, Brazil 
 - 👨‍💻 Data Analyst at [DBC Company](https://www.dbccompany.com.br/en/) | 💻 Working for [Grupo Renner](https://www.lojasrennersa.com.br/en_us/home)
 - 📚 Currently learning and growing my skillset in Big Data and Data Science. 
