@@ -15,12 +15,16 @@
  - 😜 My languages: Portuguese <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-brazil_1f1e7-1f1f7.png" width="20">, English <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-united-states_1f1fa-1f1f8.png" width="20"> and a little bit of French <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-france_1f1eb-1f1f7.png" width="20">.
 
 ---
+<img align='right' src=https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif width = "170">
+
 ⚡ Hobbies
  - 🎮 Games;
  - 🎵 Music;
  - 🏋️ Gym;
- - 📺 TV Series, Movies and Animes.
+ - 📺 TV Series, Movies and Animes.    
+   
 ---
+<img align='right' src=https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif width = "500">
 
 Feel free to contact me ☺
 
