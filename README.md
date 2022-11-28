@@ -24,7 +24,7 @@
  - 📺 TV Series, Movies and Animes.    
    
 ---
-<img align='right' src=https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif width = "500">
+<img align='right' src=https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif width = "400">
 
 Feel free to contact me ☺
 
