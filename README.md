@@ -8,7 +8,7 @@
 - 📚 Currently learning and growing my skillset in Big Data and Data Science. 
   - 📘 R, Python, Pyspark and SQL;
   - 📙 Big Data Analytics;
-  - 📓 AWS Platform;
+  - 📓 Azure Platform;
   - 📗 Machine Learning with R and Python;
   - 📕 Business Analytics;
   - 📊 Data Visualization and Dashboard with Tableau and Power BI.
