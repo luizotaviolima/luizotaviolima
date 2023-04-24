@@ -5,7 +5,7 @@
 
 - 📍 Colombo, PR, Brazil 
 - 👨‍💻 Analytics engineering 
-- 📚 Currently learning and growing my skillset in Big Data and Data Science. 
+- 📚 Always learning and growing my skillset in Big Data and Data Science. 
   - 📘 R, Python, Pyspark and SQL;
   - 📙 Big Data Analytics;
   - 📓 Azure Platform;
